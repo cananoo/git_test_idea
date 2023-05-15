@@ -11,6 +11,7 @@ public class GitTest {
         System.out.println("pull test");
         //master complete
         //git merge 
+        // debug
     }
 }
 
