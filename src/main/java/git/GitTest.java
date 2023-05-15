@@ -12,5 +12,4 @@ public class GitTest {
     }
 }
 
-feature2 test
->>>>>>> feature2
+git 777
