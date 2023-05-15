@@ -7,9 +7,10 @@ public class GitTest {
         System.out.println("third commit");
         System.out.println("master forth commit");
         System.out.println("hot-fix forth commit");
-        System.out.println("push test");
+        System.out.println("push test"); test
         System.out.println("pull test");
     }
 }
 
 git 777
+feature
