@@ -10,6 +10,7 @@ public class GitTest {
         System.out.println("push test"); 
         System.out.println("pull test");
         //master complete
+        //git merge 
     }
 }
 
