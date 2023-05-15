@@ -13,3 +13,4 @@ public class GitTest {
 }
 
 test1
+feature1 test
